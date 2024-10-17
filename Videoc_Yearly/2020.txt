@@ -4770,7 +4770,6 @@ ore632
 ore633
 simm390
 big0053
-pow002
 funza012
 smuk014
 srtd152
