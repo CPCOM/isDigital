@@ -28,6 +28,7 @@ urvrsp00374
 savr00490
 savr00478
 urvrsp00365
+kiwvr00682
 vrkm01456
 vrkm01436
 vrkm01419
@@ -39,6 +40,7 @@ savr00468
 vrkm01437
 savr00487
 crvr00352
+crvr00349
 crvr00347
 urvrsp00382
 sivr00374
