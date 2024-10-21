@@ -596,7 +596,6 @@ oretda070
 oretda071
 oretda072
 ddh065
-simm692
 smjj004
 rura083
 snsde031
@@ -802,7 +801,6 @@ ad120
 mla139
 scute1424
 gerk554
-mfc0163
 mla148
 tkk053
 orex248
