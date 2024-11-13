@@ -1280,7 +1280,6 @@ hint0318
 oretd348
 oretd349
 oretd350
-hamenets127
 tjng278
 stowif057
 garea483
@@ -1436,7 +1435,6 @@ endx177
 endx176
 endx175
 endx173
-hamenets123
 oredp007
 ofpc059
 tjng271
