@@ -779,7 +779,6 @@ icrm010
 scute1061
 dw229
 hint0423
-stouch780
 smmc239
 scute1064
 smmc240
@@ -3659,7 +3658,6 @@ dht078
 dht065
 dht036
 dbl104
-dbl089
 dbl087
 dbl064
 dbl051
@@ -3948,7 +3946,6 @@ dht031
 dht030
 dht029
 dbl102
-dbl092
 dbl067
 dbl047
 asrt119
@@ -5534,7 +5531,6 @@ dht066
 dht063
 dht062
 dht058
-dbl091
 dbl071
 dbl069
 dbl066
