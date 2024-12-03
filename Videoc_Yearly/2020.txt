@@ -5497,7 +5497,6 @@ jneta010
 mcsf003
 srho013
 srho014
-srho015
 ksko014
 pkjd015
 oretd633
@@ -5511,7 +5510,6 @@ oretd640
 oretd641
 oretd642
 obut010
-sprm004
 sprm003
 sprm002
 sekao118
