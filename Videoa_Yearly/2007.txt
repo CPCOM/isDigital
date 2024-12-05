@@ -387,7 +387,6 @@ jukd749
 jukd751
 jukd752
 h_066fax098
-hypd10
 hypd11
 ndn01
 nnk03
