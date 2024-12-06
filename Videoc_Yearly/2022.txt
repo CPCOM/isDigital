@@ -2459,7 +2459,6 @@ bini343
 bini344
 bini345
 ankk008
-shinki104
 oreco153
 hmdnc504
 glp024
@@ -4363,7 +4362,6 @@ smmc289
 ffee079
 stcv077
 stcv075
-orex347
 tyvm243
 smmc288
 dam0004
@@ -4834,7 +4832,6 @@ hibr018
 pai004
 orev007
 koukai066
-orex345
 gjkz389
 zoct051
 orev008
@@ -5013,7 +5010,6 @@ scute1185
 srtf020
 frin069
 sqb138
-orex346
 tyvm229
 ssk046
 pien004
