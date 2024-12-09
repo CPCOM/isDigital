@@ -2560,7 +2560,6 @@ orsts317
 orsts318
 orsts319
 orsts320
-ion174
 jzt009
 skho069
 fuyu071
@@ -4505,7 +4504,6 @@ instc431
 srom050
 spay229
 tkds047a
-ore930
 srom051
 srom052
 spay230
