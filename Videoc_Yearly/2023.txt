@@ -128,7 +128,6 @@ simm736
 ddhp017
 esdx031
 ore986
-hmdnc681
 shih116
 ymtk031
 ymtk032
@@ -4919,7 +4918,6 @@ oreco270
 spay209
 scute1348
 buz027
-hmdnc583
 ore924
 hint0587
 ako495
