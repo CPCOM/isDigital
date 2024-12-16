@@ -1316,7 +1316,6 @@ kmnr009
 ddh020
 mfc0118
 oreco510
-oremo057
 oretda062
 oretda063
 oretda064
@@ -2805,7 +2804,6 @@ dg063
 src008
 ntrs001
 jzt005
-oreco434
 scute1407
 reiw134
 yose008
@@ -3843,7 +3841,6 @@ merc351
 sth054
 yose001
 omsk133
-oreco343
 stbs009
 koukai081
 clt055

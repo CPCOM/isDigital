@@ -37,7 +37,6 @@ tsdk00075
 tsdk00074
 tsdk00073
 tsdk00072
-tsdk00070
 tjng163
 oretd164
 oretd163
@@ -715,7 +714,6 @@ gaijin041
 tsdk00027
 tsdk00026
 tsdk00025
-tsdk00023
 oretd126
 oretd125
 kgclub031
