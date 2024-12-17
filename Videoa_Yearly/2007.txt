@@ -6012,7 +6012,6 @@ jukd673
 15namd09
 12gon292
 oned835
-shkd306
 jukd675
 15ald65
 oned831
@@ -7937,7 +7936,6 @@ h_102sbnr033
 kird045
 11armd770
 dasd017
-kawd054
 jukd645
 76elo101
 pmax052
@@ -9162,7 +9160,6 @@ dasd013
 jukd622
 btyd041
 kawd046
-kawd047
 kird036
 kird038
 jukd623
@@ -10249,7 +10246,6 @@ btyd037
 btyd033
 kawd044
 kird030
-kawd038
 kird029
 jukd612
 jukd605
