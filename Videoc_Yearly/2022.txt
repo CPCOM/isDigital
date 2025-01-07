@@ -627,8 +627,6 @@ sika256
 sika255
 sika254
 sika253
-sika252
-sika251
 pchn031
 pchn030
 pchn029
