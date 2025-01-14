@@ -550,7 +550,6 @@ smjx007
 skho143
 simt004
 dots035
-smjs054
 spay498
 jzt090
 ginac004
@@ -781,7 +780,6 @@ ends185
 deli003
 smuk209
 mfcl003
-smjj055
 oreco902
 ends182
 skho136
@@ -873,7 +871,6 @@ mmnm021
 oreco898
 srt2015
 ddh288
-smjh030
 mgk0001
 oreco897
 srt2014

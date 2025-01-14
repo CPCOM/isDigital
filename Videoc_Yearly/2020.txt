@@ -93,7 +93,6 @@ piz0017
 eva0125
 svmm038
 scute1074
-oretd823
 oretd822
 oretd821
 oretd820
@@ -423,7 +422,6 @@ exw014
 oretd812
 oretd811
 oretd810
-oretd809
 oretd808
 oretd807
 per343
@@ -1187,7 +1185,6 @@ nrpk005
 srtd179
 yrtb007
 hta399
-srho036
 hta400
 hta401
 tkwa128
@@ -2235,7 +2232,6 @@ opsen008
 ad030
 bkkn110
 inst045
-ssan006
 papa0020
 kag050
 kitaike400
