@@ -2447,10 +2447,10 @@ stime028
 refuck104
 prgo136
 prgo141
-prgo142
 prgo143
-prgo144
+prgo142
 prgo145
+prgo144
 prgo146
 prgo147
 prgo148
@@ -6156,7 +6156,6 @@ refuck063
 ssk154
 sqb245
 bmyb137
-japorn032
 mgfx137
 lady475
 rabi022
