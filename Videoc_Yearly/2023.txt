@@ -1418,7 +1418,6 @@ simm628
 simm627
 mfc094
 mfc093
-erk044
 pow084
 skho076
 spay313
@@ -4644,7 +4643,6 @@ mla118
 erofc161
 scute1364
 hpt004
-sth049
 fuyu042
 oreco287
 skho047
@@ -4654,7 +4652,6 @@ mla113
 scute1363
 shih069
 shih071
-hhl051
 home002
 smuw004
 pak023
