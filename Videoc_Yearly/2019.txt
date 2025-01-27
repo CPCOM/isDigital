@@ -635,7 +635,6 @@ hamesu018
 hoi066
 ana0001
 inst003
-ksko009
 jkk0013
 stouch737
 hint0364
@@ -771,7 +770,6 @@ inst002
 aid0001
 garea535
 stouch736
-pkjd009
 simm293
 merc103
 merc053
@@ -812,7 +810,6 @@ jotk033
 ppko001
 ckj248
 mntj007
-ksko006
 jotk031
 dw210
 hint0361
@@ -1249,7 +1246,6 @@ asrt046
 sirotd131
 kclub059
 ksko002
-pkjd003
 mntj003
 htut352
 lady309
