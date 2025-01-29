@@ -1024,7 +1024,6 @@ venx00189
 venx00188
 vagu00252
 srob00006
-sqset00004
 sorafk00003
 ppbd00249
 ppbd00248
@@ -11815,7 +11814,6 @@ vagu00248
 urvrspfuku00003
 urvrsp00185
 srob00002
-sqset00003
 sorafk00002
 pxvr00065
 pred00416

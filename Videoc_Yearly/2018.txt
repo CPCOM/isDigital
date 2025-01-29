@@ -810,11 +810,9 @@ orex038
 hamenets138
 ofpc064
 khy181
-mgmr094
 scute829
 ore414
 gerk101
-sirotd085
 tjng296
 ore415
 srmm024
@@ -1368,7 +1366,6 @@ stowif056
 hint0314
 stowif055
 khy177
-mgmr088
 scute812
 oretd345
 judai008
@@ -1597,7 +1594,6 @@ per077
 trumo011
 per078
 oretd330
-mgmr084
 gsiro041
 scute804
 sirotd076
@@ -1866,7 +1862,6 @@ gerk090
 ako327
 ako326
 scute797
-sirotd073
 oregr024
 ofpc048
 gerk087
@@ -3207,7 +3202,6 @@ chojrm011
 avsh024
 mgmr061
 scute751
-sirotd057
 beginner073
 ckj136
 pcotta125
@@ -4190,7 +4184,6 @@ ewdx146
 ewdx145
 ewdx144
 ewdx143
-mgmr049
 scute722
 ore262
 ofpc018
@@ -4220,7 +4213,6 @@ hillstsuma287
 high248
 khy157
 hamedai059
-mgmr050
 garea451
 sskog002
 psa250
@@ -4246,7 +4238,6 @@ ore261
 ako306
 ako305
 high247
-mgmr047
 scute720
 ore266
 sirotd041
@@ -4259,7 +4250,6 @@ tsdk00081
 tsdk00079
 tsdk00078
 trumg029
-sirotd045
 oretd166
 oretd165
 ore267
@@ -4268,11 +4258,9 @@ dtds005
 dtds004
 ckj112
 pwife417
-mgmr048
 scute719
 garea450
 osh179
-mgmr046
 hamenets051
 stouch616
 bat049
