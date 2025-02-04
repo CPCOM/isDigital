@@ -4628,7 +4628,6 @@ ifc024
 avms017
 sprm006
 eva0069
-gerk244
 gerk245
 gerk246
 gerk247
@@ -4756,7 +4755,6 @@ big0054
 orex123
 ore631
 ore632
-ore633
 simm390
 big0053
 funza012
