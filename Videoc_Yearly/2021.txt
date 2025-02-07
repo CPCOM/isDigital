@@ -816,7 +816,6 @@ spay006
 spay008
 orec926
 orec928
-ore800
 ore801
 diz029
 hhw003
