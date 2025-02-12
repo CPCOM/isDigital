@@ -178,7 +178,6 @@ oretd912
 oretd913
 inst192
 wkas002
-orec964
 orex289
 exmu070
 sweet067
@@ -1247,7 +1246,6 @@ big0114
 las040
 sth005
 ffnn084
-orec891
 frin052
 scute1150
 tokyo535
