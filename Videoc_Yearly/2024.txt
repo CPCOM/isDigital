@@ -3615,7 +3615,6 @@ dht276
 dht267
 dht264
 dht108
-dht107
 dht1040
 dht104
 dht1039
