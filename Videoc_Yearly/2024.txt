@@ -2538,7 +2538,6 @@ oreco811
 fct0097
 kop031
 fuyu115
-gdrp013
 fan226
 rabf013
 prgo045
@@ -4958,7 +4957,6 @@ stime016
 mla166
 stime015
 hoi308
-simd020
 maj008
 erofc266
 hrmp002
