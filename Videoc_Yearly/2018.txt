@@ -600,7 +600,6 @@ orec209
 orec210
 smaid034
 hillstsuma326
-psa296
 psa297
 smaid035
 khy183
@@ -2688,7 +2687,6 @@ smmc147
 smmc146
 psa273
 psa272
-psa271
 psa270
 psa269
 psa268
