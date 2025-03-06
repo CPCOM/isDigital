@@ -32,7 +32,6 @@ sntl00015
 ktsb00013
 urmc00023
 dvdms00346
-dvdms00348
 soan00037
 cmn00195
 dvdms00349
@@ -18021,7 +18020,6 @@ sero00401
 advo00136
 avsa00058
 hery00098
-sero00400
 veq00135
 nsps00680
 dvaj00324
