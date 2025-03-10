@@ -2611,7 +2611,6 @@ hamech187
 hamech186
 hamech185
 hamech183
-enc006
 asrt028
 asrt027
 asrt026
