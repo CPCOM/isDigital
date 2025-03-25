@@ -4083,7 +4083,6 @@ krmv549
 krmv548
 krmv546
 krmv545
-krfv034
 krbv072
 krbv071
 krbv070
@@ -6939,7 +6938,6 @@ midd411
 83sma350
 ebod035
 mdyd323
-krmv518
 ebod036
 midd409
 midd410
@@ -10797,7 +10795,6 @@ h_157ski001
 434digi018
 47azrd059
 84okad145
-61rmd641r
 13vsd04
 17nykd03
 57ssgr083r
