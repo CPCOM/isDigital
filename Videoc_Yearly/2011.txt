@@ -112,7 +112,6 @@ street100
 dg020
 scute131
 natural135
-coakuma017
 hillstsuma040
 high031
 high032
