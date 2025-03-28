@@ -1220,7 +1220,6 @@ gvrx001
 h_108mobrc010
 h_175ddda013
 11armd910
-3naw066
 h_108mobnh008
 11armd911
 104smpd14
@@ -4084,7 +4083,6 @@ krmv548
 krmv546
 krmv545
 krbv072
-krbv071
 krbv070
 kdvl001
 hjbb025
