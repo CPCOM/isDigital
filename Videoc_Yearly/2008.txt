@@ -34,7 +34,6 @@ d0037
 dage410
 shc006
 lacme016
-rs042
 wis006
 gb014
 hamedori110
@@ -47,7 +46,6 @@ houman012
 himemix146
 lacme015
 dage409
-rs041
 dage408
 tokyo012
 flady042
@@ -61,7 +59,6 @@ gb013
 himemix145
 lacme014
 houman011
-rs040
 d0035
 mywife043
 happyf013
@@ -71,7 +68,6 @@ gb012
 flady041
 tokyo011
 hitodumac091
-rs039
 hamedori108
 realf011
 dage407
@@ -81,7 +77,6 @@ hameshiro023
 gb011
 happyf011
 flady040
-rs038
 hamedori107
 realf010
 tkpz017
@@ -94,7 +89,6 @@ dage406
 gb010
 dg009
 mywife042
-rs037
 happyf010
 tokyo001
 tokyo009
@@ -128,7 +122,6 @@ shc004
 flady038
 gb008
 d0032
-rs036
 hitodumac088
 hamedori104
 happyf008
@@ -151,13 +144,11 @@ d0031
 hamedori103
 hameshiro020
 dage403
-rs035
 gb006
 hitodumac087
 lacme012
 mywife039
 happyf006
-rs034
 hazn100
 scute050
 hamedori102
@@ -169,7 +160,6 @@ mywife038
 lacme011
 dg006
 hamedori101
-rs033
 hitodumac085
 scute049
 d0029
@@ -181,7 +171,6 @@ realf005
 realf002
 realf003
 realf004
-rs032
 hazn096
 d0028
 hamedori100
@@ -198,7 +187,6 @@ happyf003
 happyf004
 hitodumac084
 scute048
-rs031
 hamedori099
 mywife035
 lacme010
@@ -216,7 +204,6 @@ hamedori097
 tkpz014
 flady035
 himemix136
-rs030
 dage398
 mywife033
 hitodumac082
@@ -228,7 +215,6 @@ houman010
 mywife032
 vinvin208
 hamedori096
-rs029
 flady034
 himemix135
 tkpz013
@@ -247,7 +233,6 @@ d0024
 hazn094
 hitodumac080
 dg004
-rs028
 hamedori094
 dage397
 mywife031
@@ -256,7 +241,6 @@ flady032
 himemix133
 tkpz011
 lacme007
-rs027
 d0023
 hitodumac079
 hamedori093
@@ -277,13 +261,11 @@ hazn091
 houman009
 hira005
 mywife029
-rs026
 himemix132
 vinvin204
 dage392
 hitodumac077
 hamedori091
-rs025
 flady030
 npow015
 dage393
@@ -306,7 +288,6 @@ npow014
 houman008
 hira004
 himemix130
-rs024
 d0019
 vinvin202
 dage391
@@ -316,7 +297,6 @@ flady028
 hitodumac075
 hameshiro016
 hazn088
-rs023
 mywife027
 himemix129
 lacme001
@@ -336,7 +316,6 @@ himemix128
 houman007
 mywife026
 vinvin201
-rs022
 hazn086
 hitodumac074
 hira003
@@ -353,7 +332,6 @@ tkpz003
 tkpz002
 tkpz006
 himemix127
-rs021
 hamedori085
 flady025
 hazn084
@@ -364,7 +342,6 @@ dage387
 mywife024
 hamedori084
 himemix126
-rs020
 flady024
 scute045
 d0015
@@ -376,7 +353,6 @@ himemix125
 vinvin199
 mywife023
 hamedori083
-rs019
 dage386
 vinvin198
 hazn081
@@ -384,7 +360,6 @@ hitodumac071
 flady023
 hamedori082
 vinvin197
-rs018
 himemix124
 hazn080
 hitodumac070
@@ -392,7 +367,6 @@ dage385
 mywife022
 d0014
 vinvin196
-rs014
 hamedori081
 vinvin195
 houman005
@@ -405,7 +379,6 @@ boin004
 dage384
 mywife021
 vinvin193
-rs017
 hamedori079
 hitodumac069
 d0012
@@ -417,22 +390,18 @@ dage383
 hitodumac068
 mywife020
 hamedori078
-rs013
 hamedori073
 vinvin192
 hazn078
 d0011
 himemix121
-rs016
 flady020
 mywife019
 houman004
-rs015
 dage382
 coakuma011
 vinvin191
 hitodumac067
-rs012
 flady019
 vinvin164
 scute044
@@ -445,7 +414,6 @@ hamedori077
 sr030
 hitodumac066
 himemix120
-rs011
 hazn076
 coakuma010
 sr029
@@ -528,16 +496,6 @@ sr023
 hazn066
 bunta019
 hitodumac060
-rs010
-rs009
-rs008
-rs007
-rs006
-rs005
-rs004
-rs003
-rs002
-rs001
 mywife014
 npow012
 hazn065
