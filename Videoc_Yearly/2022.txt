@@ -4619,7 +4619,6 @@ nkds209
 sgk068
 ffee078
 ffnn090
-stcv063
 wkas010
 srsy030
 scute1196
@@ -4778,7 +4777,6 @@ shinki078
 homev029
 hmdn452
 hlan027
-stcv061
 smuk085
 scute1200
 kitaike421

@@ -974,7 +974,6 @@ uga209
 21psd343
 21isd108
 83sbb057
-83sks008
 33zov001
 83sma382
 sono014
@@ -2203,7 +2202,6 @@ h_100avgp140
 avgl135
 59avgp142
 avgl136
-83avgl137
 avgl138
 avgl139
 avgl143
@@ -2440,7 +2438,6 @@ hgwd005
 h_175dxbj001
 55miz001
 53dv972
-h_150sups084
 3nwf198
 540nmh02
 h_158tos028
@@ -2514,7 +2511,6 @@ krmv572
 krmv566
 krmv563
 migd197
-83sks007
 apao006
 mdyd359
 midd447
@@ -3528,12 +3524,10 @@ h_168jmls034
 111mxd010
 cyjl001
 cbqx001
-arn078
 15ald159
 parat01049
 h_152sil026
 ddb069
-15dsq09
 parat01047
 parat01048
 15dsq07
@@ -3895,7 +3889,6 @@ apaa024
 h_113ol106r
 h_175dptl001
 add013
-83sma363
 apaa025
 33dph092
 apad004
@@ -4965,9 +4958,7 @@ h_169simg116
 178sw001
 433oned751
 sqrx001
-11armg023
 59hf055
-11armd891
 h_156dktp74
 59hkm0026
 ddt185
@@ -7861,7 +7852,6 @@ akad169
 84mild523
 61rmd664r
 60sbmx021
-60sbmx020
 60sbmx019
 55t28110
 53ka1531
@@ -8394,7 +8384,6 @@ bug020
 433std102
 189dss01
 13skd18
-ddb062
 h_189fmky08
 13bml10
 parat00983
@@ -9162,7 +9151,6 @@ h_208top037
 178yd006
 2fx027
 65agl021
-60rbmx017
 12gon321
 53dv918
 60rbmx016
@@ -9897,7 +9885,6 @@ h_066fax132
 mdyd303
 83sma338
 h_150sups060
-h_150sups059
 miad367
 83sma336
 nmu002
@@ -11410,7 +11397,6 @@ migd137
 migd140
 83sma324
 mdyd291
-83sma327
 migd138
 migd139
 hjmo116
