@@ -4567,7 +4567,6 @@ spay062
 spay063
 spay064
 spay065
-spay066
 spay068
 erk019
 srom012
@@ -4880,7 +4879,6 @@ tyvm231
 frin070
 lady399
 orec1004
-orec1009
 stcv056
 king0064
 gerk420
