@@ -3574,12 +3574,10 @@ orex133
 orex137
 orex139
 oretd698
-oretd699
 oretd700
 oretd701
 oretd702
 oretd703
-oretd704
 merc198
 merc197
 hoi105
@@ -3795,7 +3793,6 @@ oretd697
 merc183
 stst005
 gerk262
-oretd693
 big0068
 per277
 kag018
