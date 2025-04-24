@@ -1993,7 +1993,6 @@ gerk530
 jzt018
 hmdnc657
 oremo030
-trc0005
 hcmn001
 ore957
 spay311
@@ -2137,7 +2136,6 @@ fct0041
 h484
 stok045
 pkpk002
-pkpk001
 src009
 habj053
 stok044

@@ -539,7 +539,6 @@ mdyd101
 mdyd111
 mdyd102
 miad235
-midd238
 miad237
 midd240
 83sma211

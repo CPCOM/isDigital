@@ -104,7 +104,6 @@ smad050
 smad049
 iat006
 simm582
-reiw024
 dht190
 dht143
 dht142
@@ -1321,7 +1320,6 @@ sekao140
 simm531
 sekao141
 mfc046
-pow027
 scp0024
 asrt160
 kag090
