@@ -2479,7 +2479,6 @@ per381
 inst134
 ckj312
 hhsi004
-mywife557
 with104
 mazof004
 pwife752
@@ -4361,7 +4360,6 @@ pwife718
 mla011
 simm612
 mla012
-mywife540
 mla001
 scute1078
 tokyo520

@@ -236,7 +236,6 @@ orec463
 gerk208
 gerk209
 simm315
-gerk210
 urf0003
 sirotd139
 pwife605
@@ -872,7 +871,6 @@ ore591
 gerk197
 sirotd133
 jotk032
-ore592
 simm284
 gerk198
 pwife593
@@ -1189,7 +1187,6 @@ scute936
 kag005
 simm271
 imdk005
-mntj005
 mywife466
 ad011
 ckj243
@@ -1354,7 +1351,6 @@ orec434
 orec435
 gerk189
 gerk190
-gerk191
 beitc144
 sweet031
 ore583
@@ -1476,7 +1472,6 @@ per222
 per223
 eqt433
 ckj241
-imdk001
 oretd575
 with025
 bmnp079
