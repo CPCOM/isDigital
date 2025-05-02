@@ -4172,7 +4172,6 @@ td042dv01464
 td042dv01326
 sttcd00051
 stemaz00061
-stcetd00074
 stcetd00073
 stapod00006
 stapod00005
