@@ -1056,7 +1056,6 @@ est081
 syj003
 omsk086
 htut498
-sijm001
 nkds203
 sgk047
 somk019
@@ -4500,7 +4499,6 @@ shinki028
 sgk012
 hmdn336
 opsen017
-fryd022
 ffnn059
 tyvm129
 ffee054
