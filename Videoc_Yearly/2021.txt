@@ -468,7 +468,6 @@ hmdn430
 stcv034
 hibr010
 egfj003
-asgm030
 skho019
 snyz046
 nkds205
@@ -3343,7 +3342,6 @@ orec744
 orec745
 orec746
 orec747
-orec748
 orec749
 orec750
 orec751
