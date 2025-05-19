@@ -2216,7 +2216,6 @@ scute1126
 ffnn078
 fhmd134
 smmc265
-ppko014
 wnso022
 king0043
 king0042
@@ -3636,7 +3635,6 @@ smuc003
 ad047
 inst107
 srho039
-ykmc053
 oretd853
 htut484
 per376
