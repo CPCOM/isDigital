@@ -454,7 +454,6 @@ orec214
 orec215
 tyoku031
 simm056
-simm055
 simm054
 simm053
 simm052
@@ -746,7 +745,6 @@ tjng298
 hint0325
 ore429
 oregr034
-srmm028
 srmm027
 srmm026
 srmm025
