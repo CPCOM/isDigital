@@ -3989,7 +3989,6 @@ smmc116
 smmc115
 smmc114
 smmc113
-smmc112
 smmc111
 smmc110
 smmc109
