@@ -1949,7 +1949,6 @@ per065
 orec126
 orec125
 orec124
-vondp047
 mgmr077
 hamesu007
 djcn001
@@ -3085,7 +3084,6 @@ kdnhd004
 kdnhd003
 kdnhd002
 high262
-vondp041
 ewdx164
 tjng191
 ewdx169
