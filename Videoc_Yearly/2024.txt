@@ -2236,7 +2236,6 @@ ttjk040
 ttjk038
 hoi333
 simm901
-oreco821
 fct0107
 gesy057
 erofc286
@@ -2685,7 +2684,6 @@ ntk805
 smul033
 instc585
 ddhp061
-oremo230
 trc076
 ntk837
 fuyu112
