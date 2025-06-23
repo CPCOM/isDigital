@@ -419,7 +419,6 @@ ion025
 ion026
 simm302
 ion027
-scute960
 hameren006
 bat072
 simm301
@@ -1294,7 +1293,6 @@ scute938
 tjng427
 simm264
 ckj242
-kiray120
 pwife587
 simm263
 simm262

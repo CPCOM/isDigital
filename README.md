@@ -2,8 +2,8 @@
   
 | Channel | Count | Link |  
 | :-----: | :---: | :--- |  
-|**ビデオ**<br />Videoa | 447251 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Videoa.txt |  
+|**ビデオ**<br />Videoa | 447590 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Videoa.txt |  
 |**VR動画**<br />VR | 18279 | https://raw.githubusercontent.com/CPCOM/isDigital/main/VR.txt |  
-|**素人**<br />Videoc | 60666 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Videoc.txt |  
+|**素人**<br />Videoc | 60683 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Videoc.txt |  
 |**アニメ**<br />Anime | 1 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Anime.txt |  
 |**成人映画**<br />Nikkatsu | 6202 | https://raw.githubusercontent.com/CPCOM/isDigital/main/Nikkatsu.txt |  
