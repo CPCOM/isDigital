@@ -1928,8 +1928,6 @@ zoct015
 zoct014
 skiv016
 opcyn184
-opcyn183
-opcyn182
 opcyn181
 opcyn180
 opcyn179
