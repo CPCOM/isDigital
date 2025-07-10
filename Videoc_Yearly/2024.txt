@@ -3805,8 +3805,8 @@ orsts420
 orsts419
 instc579
 sth089
-dht1044
 dht1036
+dht1044
 dht1075
 dht1051
 ddhp058
@@ -3814,12 +3814,12 @@ pcotta615
 oksm040
 kop073
 fan221
-dht1042
 fots029
-dht977
 fct0106
 dht1043
+dht1042
 dht978
+dht977
 dht1074
 dht1050
 dht1049
