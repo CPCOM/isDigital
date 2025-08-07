@@ -619,7 +619,6 @@ sacz418
 sacz417
 sacz385
 sacz384
-pak028
 hoi281
 smjz006
 oksm003
@@ -3487,7 +3486,6 @@ bini394
 bini393
 bini392
 ion169
-sgk125
 ankk061
 shinki151
 rura063
