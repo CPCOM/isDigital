@@ -2499,7 +2499,6 @@ simm475
 mfc027
 loli026
 mmgh281
-lofp001
 ad029
 ion057
 srtd169
