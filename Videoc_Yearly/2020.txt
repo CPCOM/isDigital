@@ -1422,7 +1422,6 @@ ttjm066
 simm526
 avkh178
 inst059
-ykmc036
 sacz001
 skck010
 tokyo503
