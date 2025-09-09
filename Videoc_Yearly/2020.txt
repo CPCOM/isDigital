@@ -1162,7 +1162,6 @@ dht045
 dbl061
 dbl046
 dbl045
-pow028
 hoi137
 shinki013
 sd007
