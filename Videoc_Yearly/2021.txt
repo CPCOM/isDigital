@@ -2295,7 +2295,6 @@ sgk031
 homev013
 galgal003
 hmdn381
-frin040
 hdm038
 asgm010
 sqb109
