@@ -2998,7 +2998,6 @@ eva0057
 scute1026
 tjtj016
 per304
-panpi009
 d0184
 bini244
 per302
@@ -3374,7 +3373,6 @@ yrtb003
 ifc032
 hstg003
 simm440
-opcyn093
 opcyn092
 ifc031
 sdgn001
