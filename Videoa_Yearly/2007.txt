@@ -2266,11 +2266,9 @@ jukd732
 jusd098
 rezd010
 dazd002
-btwd003
 76elo126
 kwbd002
 kibd002
-btwd004
 kibd003
 opbd016
 jusd097
@@ -3784,8 +3782,6 @@ plod147
 plod149
 nsk14
 jusd090
-btwd001
-btwd002
 76elo120
 opsd005
 jusd091
@@ -9034,7 +9030,6 @@ abod101
 abod107
 mibd168
 mibd169
-mibd170
 mibd171
 mibd172
 mibd173
