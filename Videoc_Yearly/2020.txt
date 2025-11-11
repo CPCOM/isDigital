@@ -614,7 +614,6 @@ ykmc041
 simm561
 mfc058
 pow033
-show032
 enk015
 psz0005
 srtd184
@@ -742,7 +741,6 @@ eldx072
 eldx071
 sweet046
 nnpr001
-nrpk008
 show031
 srtd183
 king0018
@@ -3743,7 +3741,6 @@ rses035a
 ant203
 jotk076
 per280
-trumg115
 tyvm054
 tbx026
 nhb005
