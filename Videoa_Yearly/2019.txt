@@ -2993,7 +2993,6 @@ dpjt00107
 digi00245
 dgcesd00839
 dgcesd00838
-dgcesd00837
 dftr00136
 dftr00135
 dber00046
