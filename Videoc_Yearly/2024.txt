@@ -3034,7 +3034,6 @@ simd027
 fuyu111
 yarr011
 oreco786
-kop039
 fots032
 mmnm015
 mfc303
@@ -3201,8 +3200,8 @@ oreco773
 dni179
 bini444
 bini443
-bini441
 bini442
+bini441
 hoi327
 shinki199
 peep047
@@ -4833,7 +4832,6 @@ srom098
 srom099
 srom100
 mfcw024
-kop072
 oreco693
 reiw077
 trpk004
@@ -6488,10 +6486,10 @@ oreco604
 ddh232
 ddh231
 oretda079
+oretda078
 mfcw015
 mfcs099
 mfc274
-oretda078
 sth075
 smjz015
 instc536

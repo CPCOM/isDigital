@@ -342,8 +342,8 @@ simm570
 opcyn126
 opcyn125
 mfc061
-tokyo509
 pvmk008
+tokyo509
 simm569
 hmdn318
 gerk329
@@ -1337,8 +1337,8 @@ asrt161
 asrt162
 simm530
 mfc045
-asrt163
 asrt164
+asrt163
 spcy006
 smuk029
 simm529
@@ -4909,8 +4909,8 @@ mcsf022
 scute987
 simm379
 mmh005
-fctd052
 mcsf021
+fctd052
 hoi086
 inst019
 stouch752
