@@ -4085,7 +4085,6 @@ hmdnc607
 sdk069
 hhl054
 sgk120
-ankk054
 shinki145
 ad112
 oreco325
