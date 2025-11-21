@@ -1189,7 +1189,6 @@ ewdx328
 ewdx327
 endx311
 sweet044
-nrpk005
 srtd179
 yrtb007
 hta399
@@ -1462,7 +1461,6 @@ wnso018
 kuro0020
 can0003
 pow026
-show029
 ion065
 kstc004
 srtd177
