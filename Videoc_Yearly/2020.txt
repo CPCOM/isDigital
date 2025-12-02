@@ -655,7 +655,6 @@ ahn008
 simm558
 pow032
 avhd103
-panpi027
 ckj291
 inst072
 eva0134
@@ -880,7 +879,6 @@ oretd790
 lady355
 lady356
 ako407
-panpi025
 ako408
 hoi142
 shinki015
