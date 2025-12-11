@@ -454,7 +454,6 @@ sdtx007
 htut617
 mfc181
 simm703
-htut618
 htut619
 htut620
 htut621
