@@ -750,7 +750,6 @@ mcsf080
 king0019
 simm555
 mfc055
-king0020
 simm554
 endx316
 endx315
@@ -3000,7 +2999,6 @@ nuht004
 per299
 tyvm066
 lady342
-scute1025
 per300
 stfx014
 srcn019
