@@ -2317,7 +2317,6 @@ scute1257
 pwife864
 srtf045
 opcyn316
-opcyn315
 hmdnc508
 ankk011
 shinki106
@@ -2596,7 +2595,6 @@ gjkz438
 gjkz439
 opcyn314
 opcyn313
-opcyn312
 opcyn311
 opcyn310
 gjkz440
@@ -3514,7 +3512,6 @@ oreco068
 oreco067
 opcyn291
 opcyn290
-opcyn289
 sgk084
 shinki092
 gesb005
