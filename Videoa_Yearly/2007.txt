@@ -666,7 +666,6 @@ h_170vnds504
 56sea049
 zjil001
 xnhl001
-15send140
 oned896
 oned897
 mvsd053
@@ -1344,7 +1343,6 @@ h_100kaim008
 wiyx001
 pgd144
 oned886
-15send139
 oned890
 sspd046
 pgd149
@@ -7208,7 +7206,6 @@ tcd01
 kkod001
 oned812
 shkd302
-15send120
 oned818
 pgd120
 jukd652
@@ -7988,7 +7985,6 @@ hlnx001
 oned807
 mvmd014
 oned804
-15send116
 oned806
 mvmd015
 crpd174
