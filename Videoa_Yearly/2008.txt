@@ -9307,7 +9307,6 @@ dym001
 dym002
 pppd0009
 pppd0010
-kmi019
 mtv005
 crpd241
 crpd240
@@ -17294,7 +17293,6 @@ acax002
 83sma295
 apaa006
 ddk009
-kmi012
 83sma296
 83sma293
 h_066ccx018
