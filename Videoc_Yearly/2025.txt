@@ -2391,7 +2391,6 @@ smuk276
 smjx085
 fuyu174
 oremo419
-pai110
 spay641
 ddhc032
 msods011
@@ -2593,7 +2592,6 @@ smjj091
 smuk275
 fuyu173
 oremo410
-pai111
 spay627
 ddhc031
 tpc001
@@ -2722,7 +2720,6 @@ smul047
 smjj083
 fuyu177
 smjs151
-pai112
 ptpj020
 sima021
 ckj403
