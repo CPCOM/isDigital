@@ -4584,7 +4584,6 @@ hmdn335
 ch003
 ddh0001
 ant011
-smuc001
 ckj298
 pwife714
 simm605
