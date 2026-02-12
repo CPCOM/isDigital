@@ -2336,8 +2336,8 @@ dht1084
 dht1086
 dht1005
 dht1004
-smjk039
 shinki203
+smjk039
 hdsn043
 pkpk042
 smjh018
@@ -3687,10 +3687,10 @@ hcmn080
 ako539
 ako538
 ion200
+shinki198
 smjj032
 smjp038
 smul030
-shinki198
 sna016
 pkpk036
 tcnb005
@@ -4119,8 +4119,8 @@ tttl021
 oremo205
 oreco736
 hhl104
-shinki196
 ankk100
+shinki196
 tcnb002
 sbth006
 sna015
