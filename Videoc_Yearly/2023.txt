@@ -736,7 +736,6 @@ shinki171
 sgk135
 ankk085
 smjz009
-sj001
 smus033
 pkpk012
 y014
@@ -1057,7 +1056,6 @@ smmc348
 nkds230
 simm0662
 srsy075
-scute1422
 hcmn008
 sqb232
 bmyb123
@@ -1263,7 +1261,6 @@ esdx022
 esdx021
 stbs012
 erofc213
-oreco511
 h488
 smjz007
 bitz003
