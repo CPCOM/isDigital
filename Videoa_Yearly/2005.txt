@@ -16,7 +16,6 @@ ipt022
 hgml001
 ebr031
 atvl001
-143sld43
 supd012
 53dv487
 12hei001
@@ -1140,7 +1139,6 @@ mdud014
 mibd018
 66cav3901
 84mild233
-143sld46
 49gr58
 17xrm13
 50kt250
