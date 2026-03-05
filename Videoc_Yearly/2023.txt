@@ -1778,7 +1778,6 @@ bmyb118
 smmc344
 dg069
 koukai092
-mgfx118
 sekao166
 endx449
 endx450
@@ -2685,7 +2684,6 @@ bmyb111
 fami004
 sqb220
 mgfx116
-dmtp030
 ffnn129
 dni129
 dg064
@@ -3775,7 +3773,6 @@ dmtp020
 smmc332
 sqb210
 bmyb101
-mgfx106
 merc322
 himemix394
 oreco353
@@ -4094,7 +4091,6 @@ epsb004
 snyz083
 dmtp017
 ssk115
-mgfx103
 sqb207
 bmyb098
 smmc331

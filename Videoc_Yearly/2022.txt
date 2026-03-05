@@ -1244,7 +1244,6 @@ mgfx030
 mgfx029
 mgfx028
 mgfx027
-mgfx026
 mgfx025
 mgfx024
 mgfx023
@@ -1499,7 +1498,6 @@ bmyb063
 bmyb062
 bmyb061
 bmyb060
-bmyb059
 bmyb058
 bmyb057
 bmyb056
