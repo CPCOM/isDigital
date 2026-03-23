@@ -250,7 +250,6 @@ scute956
 urf0002
 orec458
 hameren010
-simm313
 merc114
 hamenets249
 ckj254
@@ -785,7 +784,6 @@ tjng433
 scute951
 ksko008
 sirotd134
-simm290
 ewdx287
 ewdx286
 ewdx285

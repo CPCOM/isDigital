@@ -3046,8 +3046,6 @@ jusd093
 u18005
 kkod008
 dvmp006
-15namd11
-15namd12
 pgd143
 15tmd08
 jukd713
@@ -5868,7 +5866,6 @@ atid126
 sspd041
 66sak8457
 oned814
-15namd10
 pgd131
 15dms06
 15send124
@@ -6814,7 +6811,6 @@ h_067nade098
 44avd340
 84rumad067r
 59hkj001
-57ddr882
 428dcb07
 47ssrd001
 428dcs02
