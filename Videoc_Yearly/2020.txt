@@ -4219,7 +4219,6 @@ srtd156
 orec515
 pwife638
 svmm023
-svmm024
 orec516
 simm411
 orec517
@@ -4336,7 +4335,6 @@ pvmb001
 pvmb002
 pvmb003
 pvmb004
-las010
 las011
 kamig004
 kamig005
@@ -4496,7 +4494,6 @@ las015
 srtd154
 nkr0009
 pwife634
-big0055
 las016
 big0056
 big0057
@@ -4728,7 +4725,6 @@ eva0054
 stouch754
 trumg101
 orec508
-big0054
 orex123
 ore631
 ore632
