@@ -2525,8 +2525,6 @@ orsts313
 orsts314
 orsts315
 orsts316
-orsts317
-orsts318
 orsts319
 orsts320
 jzt009
@@ -3108,8 +3106,6 @@ smuw008
 rura071
 erofc190
 gerk520
-orsts302
-orsts301
 orsts300
 orsts299
 orsts298
