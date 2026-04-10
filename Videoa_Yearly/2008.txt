@@ -8381,7 +8381,6 @@ h_086pake01
 pgd201
 18tasp001
 dmm113
-15sdnd31
 soe013
 dmm107
 h_236tkd001
@@ -8389,7 +8388,6 @@ h_236tkd001
 pgd198
 h_165d100sp01
 434didm001
-15sdnd30
 pgd197
 24pld033
 nid06

@@ -472,7 +472,6 @@ simm298
 merc102
 merc101
 merc100
-merc099
 hoi069
 scute943
 scp0005
@@ -549,7 +548,6 @@ shih013
 shih014
 shih015
 merc107
-merc098
 merc097
 merc096
 merc095
