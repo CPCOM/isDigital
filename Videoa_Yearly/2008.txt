@@ -5587,7 +5587,6 @@ soe055
 2bsu001
 soe050
 2wss079
-24nod019
 rbd119
 pgd217
 pgd214
