@@ -4445,8 +4445,6 @@ wfc008
 36lap02
 17nrd03
 24sw004
-15sen19
-15sen17
 15mlid03
 15mlid02
 15mlid01
