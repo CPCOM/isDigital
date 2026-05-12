@@ -6435,7 +6435,6 @@ dci05
 dfkb01
 dfku01
 dfm01
-dfp01
 dfp03
 dfzt01
 dfzt02
@@ -6449,6 +6448,7 @@ dlt06
 dlt07
 tt134
 fbqx001
+dfp01
 kawd058
 dasd021
 btyd056
