@@ -5856,7 +5856,6 @@ odd007
 vvhx001
 vpjv001
 dmo009
-143brd19
 140m440
 18jkrd24
 23lr02d
@@ -6693,7 +6692,6 @@ gzbl002
 vqax001
 mqc004
 ewd001
-143brd18
 18sprd11
 2kcd004
 24swd112
@@ -7064,7 +7062,6 @@ hjmo015
 ehzv001
 crdg001
 bxkd001
-143brd22
 55twd202
 50kt064
 422ddt01
