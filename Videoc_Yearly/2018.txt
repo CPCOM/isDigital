@@ -592,7 +592,6 @@ orec205
 orec207
 orec208
 orec209
-orec210
 smaid034
 hillstsuma326
 psa297
@@ -1449,7 +1448,6 @@ kiray080
 dpmu020
 ore386
 judai007
-yariss055
 dw162
 ore388
 ore387
