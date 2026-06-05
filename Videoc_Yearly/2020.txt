@@ -3405,7 +3405,6 @@ srtd162
 sp022
 street333
 hpara295
-sp023
 street334
 simm437
 mfc011
@@ -3986,7 +3985,6 @@ inst027
 opsen002
 garea555
 fhmd070
-sp021
 nfds028b
 big0063
 lady337
