@@ -5088,7 +5088,6 @@ big0094
 opcyn147
 opcyn146
 opcyn145
-mfc069
 big0093
 scute1092
 simm588

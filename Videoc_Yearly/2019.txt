@@ -538,7 +538,6 @@ hpara288
 shih011
 show015
 shih012
-shih013
 shih014
 shih015
 merc107
@@ -1165,7 +1164,6 @@ mntj004
 dsrt020
 scute936
 kag005
-simm271
 imdk005
 mywife466
 ad011
@@ -1362,7 +1360,6 @@ ako367
 ako368
 simm256
 simm255
-simm254
 osyabc181
 osyabc180
 osyabc179
