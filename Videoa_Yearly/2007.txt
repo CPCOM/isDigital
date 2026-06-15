@@ -8618,8 +8618,6 @@ ewgx001
 bgml001
 h_068mxnbs014
 h_315sgoms011
-h_068mxpcs017
-h_068mxpcs019
 h_315sgcrs011
 53dv700
 143hm16
