@@ -218,7 +218,6 @@ smuh042
 dht263
 fan246
 ends192
-oreco931
 smuc132
 mfcl005
 erofc302
@@ -820,7 +819,6 @@ pkpk052
 bskc061
 oksm056
 su031
-oreco899
 hdsn048
 ggsm012
 ddhp071
@@ -1122,7 +1120,6 @@ shinki210
 su022
 ddh287
 spay481
-oremo258
 zarj048
 pkpk050
 hlw008
@@ -2508,7 +2505,6 @@ prgo056
 mfcw032
 smjz037
 skho134
-oreco812
 fct0098
 erofc283
 ends163
@@ -3124,7 +3120,6 @@ smjh012
 smjj040
 smjp039
 simm894
-oreco779
 erofc278
 smjs033
 zech060
@@ -3644,7 +3639,6 @@ skho127
 skho129
 orev095
 oremo218
-oreco767
 hoi325
 simd025
 oremo217
