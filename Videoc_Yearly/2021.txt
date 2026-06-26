@@ -1723,7 +1723,6 @@ btgl016
 orex276
 exw018
 orex291
-orex295
 exw020
 exw022
 exw027
@@ -2712,7 +2711,6 @@ zoct004
 zoct005
 gerk376
 gerk377
-orex294
 orex0267
 orex0266
 pow052
