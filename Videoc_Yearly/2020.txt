@@ -1192,7 +1192,6 @@ srtd178
 simm535
 mfc047
 hta402
-stst012
 ad034
 obut024
 ura0004
