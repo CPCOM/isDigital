@@ -7628,9 +7628,6 @@ parat00413
 15hamd19
 15oled09
 15oled08
-15awad03
-15awad02
-15awad01
 15send73
 15send71
 15send70
