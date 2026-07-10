@@ -3868,7 +3868,6 @@ ddn126
 28ddt008
 433mbd064
 15wstd18
-15dma08
 15wid53
 15sen22
 15mlid06
@@ -7726,8 +7725,6 @@ parat00413
 15wid60
 15wid59
 15wid58
-15wid57
-15wid56
 15sghd10
 15opd03
 15opd02
@@ -7746,7 +7743,6 @@ parat00413
 15dsui24
 15dhsl02
 15dhsl01
-15send47
 15drev15
 15drev14
 15drev13
