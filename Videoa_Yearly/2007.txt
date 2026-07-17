@@ -7168,7 +7168,6 @@ pbd007
 15dms04
 atid125
 15dms03
-15ckd13
 jukd654
 15ald55
 kkod002
