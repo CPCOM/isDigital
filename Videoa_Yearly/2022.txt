@@ -8217,7 +8217,6 @@ urvrsp00188
 tppn00233
 stol00072
 sspd00171
-sqtevr00002
 same00018
 same00017
 same00016

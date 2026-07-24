@@ -772,11 +772,9 @@ instc602
 oreco903
 ends185
 deli003
-smuk209
 mfcl003
 oreco902
 ends182
-skho136
 simt003
 smjz050
 smuh039
