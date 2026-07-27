@@ -1084,7 +1084,6 @@ simm540
 mfc049
 merc263
 merc262
-merc261
 merc260
 fan061
 fan060
@@ -2144,7 +2143,6 @@ tkwa099
 tkwa097
 simm491
 mfc032
-merc237
 nrpk002
 musume001
 musume002
@@ -2168,7 +2166,6 @@ ds385
 kag072
 con0077
 simm489
-merc236
 enk011
 hmdn288
 mntj030
@@ -4999,7 +4996,6 @@ scute981
 urf0046
 simm368
 merc160
-merc159
 avkh169
 hoi083
 sqb038
@@ -5039,7 +5035,6 @@ fctd050
 tyvm047
 srcn008
 simm367
-merc158
 dht121
 dht071
 dht070

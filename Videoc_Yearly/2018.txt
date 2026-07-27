@@ -2577,7 +2577,6 @@ ako321
 ako320
 mgmr069
 orec093
-stouch641
 bat054
 tjng213
 hint0293
@@ -3417,7 +3416,6 @@ kitaike169
 omsk035
 hillstsuma296
 hdybi014
-tsdk00114
 kgclub050
 tsdk00120
 tsdk00118
@@ -3523,7 +3521,6 @@ dtds021
 ofpc026
 sirotd054
 tsdk00108
-tsdk00113
 tsdk00112
 tsdk00111
 tsdk00110

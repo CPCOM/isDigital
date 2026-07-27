@@ -651,7 +651,6 @@ bini307
 bini308
 hoi207
 shinki065
-sgk051
 hmdn426
 homev023
 stcv032
@@ -733,7 +732,6 @@ egfj002
 asgm027
 ad069
 skho015
-orec918
 ffnn085
 scute1167
 frin057
@@ -1012,7 +1010,6 @@ orsts079
 orsts080
 orsts081
 orsts082
-orec914
 inst175
 smuk071
 orec913
@@ -2400,7 +2397,6 @@ orec806
 orec807
 orec808
 orec809
-orec811
 orec812
 orec813
 orec814
