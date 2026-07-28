@@ -2541,7 +2541,6 @@ yus008
 oretd061
 ore232
 ore231
-ore230
 garea417
 ckj045
 stouch549
