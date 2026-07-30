@@ -1609,7 +1609,6 @@ hoi131
 shinki009
 hmdn297
 smuk034
-ffnn036
 tyvm089
 enk012
 eva0108
@@ -2391,7 +2390,6 @@ oretd738
 oretd739
 simm479
 opcyn096
-opcyn095
 opcyn094
 hmdn284
 ons0011
@@ -4501,7 +4499,6 @@ with047
 ako386
 simm398
 opcyn081
-opcyn080
 opcyn079
 opcyn078
 opcyn077

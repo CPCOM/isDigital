@@ -28,7 +28,6 @@ sdj021
 inst196
 orex355
 gcp0011
-opcyn229
 opcyn228
 opcyn227
 opcyn226
@@ -291,7 +290,6 @@ ttjn446
 ttjm101
 ttjm098
 ttjk011
-opcyn225
 opcyn224
 opcyn223
 opcyn222
@@ -403,7 +401,6 @@ ore806
 opcyn220
 opcyn219
 opcyn218
-opcyn217
 opcyn216
 pow065
 ion110
@@ -963,7 +960,6 @@ opcyn206
 opcyn205
 opcyn204
 opcyn203
-opcyn202
 opcyn201
 opcyn200
 inst176
@@ -1163,7 +1159,6 @@ opcyn199
 opcyn198
 opcyn197
 opcyn196
-opcyn195
 ion103
 inst172
 yaho017
