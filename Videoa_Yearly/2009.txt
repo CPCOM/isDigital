@@ -15593,7 +15593,6 @@ h_067rnade361r
 57mashr42r
 433tia019
 178scp018
-77pltd07
 13bnd18
 h_158tod089
 xgfl002
@@ -15637,7 +15636,6 @@ h_067rnade360r
 57mashr41r
 h_170vnds875
 h_206spz069
-77dny10
 2wsp011
 13avd25
 xgfl001
