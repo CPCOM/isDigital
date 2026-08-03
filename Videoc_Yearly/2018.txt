@@ -878,12 +878,12 @@ oretd369
 per098
 opcyn002
 opcyn001
-snip008
 kgclub086
 scute828
 orec178
 per096
 kclub044
+snip008
 bmh049
 htut280
 kitaike334
@@ -967,7 +967,6 @@ eqt197
 chojrm058
 chojrm057
 htut282
-snip007
 kclub043
 kitaike333
 tpas005
@@ -980,6 +979,7 @@ judai012
 oregr033
 sirotd083
 hameoji005
+snip007
 tjng289
 hint0320
 htut283
@@ -4117,7 +4117,6 @@ hamedai060
 scute724
 garea452
 hint0261
-hamenets055
 snzm094
 hillstsuma288
 scute723
@@ -4225,7 +4224,6 @@ pwife417
 scute719
 garea450
 osh179
-hamenets051
 stouch616
 bat049
 high246
