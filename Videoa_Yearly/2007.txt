@@ -590,7 +590,6 @@ h_046kbkd247
 h_046kbkd248
 h_046kbkd249
 h_046kbkd246
-48kgdv36
 57ssgr013
 61rmd554r
 140c820
@@ -1096,7 +1095,6 @@ mi059
 mi058
 mi057
 mi056
-mi055
 mi054
 mi053
 mi052
