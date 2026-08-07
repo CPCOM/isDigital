@@ -3052,7 +3052,6 @@ midd196
 miad190
 lovd029
 mdyd072
-mdyd080
 krmv185
 krmv183
 krmv188
@@ -7759,7 +7758,6 @@ parat00413
 15send44
 15send43
 15send42
-15send41
 15mnsd04
 15mnsd03
 15ihkd16
@@ -7769,8 +7767,6 @@ parat00413
 15hgd11
 15hgd10
 41gjk002
-15send40
-15send39
 53ka1703
 180_1942
 49fn38d
