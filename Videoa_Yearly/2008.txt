@@ -156,7 +156,6 @@ kkvx001
 52fe484
 lgzx001
 1star128s
-53dv989
 1star129s
 1star131s
 12pan007
@@ -5301,7 +5300,6 @@ h_113se032r
 h_175dpik002
 h_189aeal02
 h_086jrzd86
-h_113sy013r
 h_113se033r
 422shin21
 422shin22
@@ -6471,7 +6469,6 @@ arn068
 15vcd021
 15snd15
 15snd14
-15snd13
 15sepd08
 15send162
 15jjkd14
