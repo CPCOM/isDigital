@@ -5306,8 +5306,6 @@ h_113se033r
 60xv635
 ddk019
 172emu017
-h_113sy014r
-h_113sy015r
 h_086herd26
 h_086herd27
 h_189aeds69
@@ -6467,8 +6465,6 @@ arn068
 15vcd023
 15vcd022
 15vcd021
-15snd15
-15snd14
 15sepd08
 15send162
 15jjkd14
