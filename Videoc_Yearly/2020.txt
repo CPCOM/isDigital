@@ -458,7 +458,6 @@ dht120
 dbl095
 dbl094
 dbl093
-hoi148
 avkh187
 svmm042
 loli031
@@ -1909,7 +1908,6 @@ asrt146
 asrt147
 asrt149
 simm502
-mfc035
 exmu061
 piz0014
 pwife675
