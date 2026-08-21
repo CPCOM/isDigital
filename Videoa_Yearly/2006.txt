@@ -6134,7 +6134,6 @@ gpxl001
 15send72
 78vipr057
 52fedv353
-15sdnd20
 86aedvd1365r
 53ks8045
 18sprd14
@@ -7702,9 +7701,6 @@ parat00413
 15dsui25
 15mpcd02
 15mpcd01
-15sdnd19
-15sdnd18
-15sdnd17
 15mozd42
 15mozd41
 15mozd40
