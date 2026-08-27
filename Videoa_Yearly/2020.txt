@@ -75,7 +75,6 @@ jul00423
 jul00421
 hunta00924
 hunta00923
-hunta00922
 hunbl00027
 hhgt00007
 hhap00007
@@ -7322,7 +7321,6 @@ kibd00265
 kibd00264
 kavr00096
 jyma00001
-jpsvr00018
 jjbk00035
 hunta00849
 hhoy00003
