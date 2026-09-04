@@ -7606,7 +7606,6 @@ parat00413
 15mnsd08
 15avdd02
 15anld24
-15sdnd21
 15oled07
 15oled06
 15mhd02
