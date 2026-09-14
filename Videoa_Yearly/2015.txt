@@ -726,7 +726,6 @@ nsa00015
 bnsps00419
 bnsps00418
 yami00040
-svs00042
 sry00013
 qrdd00006
 oswk00001
