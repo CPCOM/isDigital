@@ -3780,8 +3780,6 @@ merc338
 merc339
 merc340
 merc341
-merc342
-merc343
 merc344
 merc345
 merc348
